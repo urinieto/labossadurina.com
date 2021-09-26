@@ -1,0 +1,44 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Discografia
+  portfolio_item :
+    - name : Merda Fina (2018)
+      image : images/portfolio/merdafina.jpg
+      image_webp : images/portfolio/portfolio-1.webp
+      categories : ["Àlbums"]
+      content : Produït per La Bossa d’Urina i en Lluís Cots.
+      sp_link : "https://open.spotify.com/album/4XWTjpFBQsUC683wtVu7hI?si=D8f3zXq0SX-RycRsMfVDVg&dl_branch=1"
+      bc_link : "https://labossadurina.bandcamp.com/album/merda-fina"
+      deezer_link : "https://www.deezer.com/en/album/71810842"
+      yt_link : "https://www.youtube.com/watch?v=686-mXW8Bac&list=OLAK5uy_m3YlWEwu9TjkJUjWxfSXXs41k0M4Ob6X8"
+
+    - name : La Bossa d'Urina (2015)
+      image : images/portfolio/lbdu.jpg
+      image_webp : images/portfolio/portfolio-1.webp
+      categories : ["Àlbums"]
+      content : Produït per La Bossa d'Urina i en Ramón Rodríguez
+      sp_link : "https://open.spotify.com/album/4CE2GrmJd4rdW7tWdxJtvq?si=G03pG2d7RySMDKgTupcVQA&dl_branch=1"
+      bc_link : "https://labossadurina.bandcamp.com/album/la-bossa-durina"
+      deezer_link : "https://deezer.page.link/Mkb7shtA9yG6XmLk8"
+      yt_link : "https://www.youtube.com/watch?v=D7dWPpXmybM&list=OLAK5uy_lZiEwQchEgunpaK25TB9bOnTaajsWNG6c"
+
+    - name : Es Tarde (2015)
+      image : images/portfolio/estarde.jpg
+      image_webp : images/portfolio/portfolio-2.webp
+      categories : ["Singles"]
+      content : Produït per La Bossa d'Urina i en Ramón Rodríguez
+      sp_link : "https://open.spotify.com/album/7nHK86xXGrFrjWJBXcm1Sk?si=PhLs2DKBQ7muRQ7KfwcLBw&dl_branch=1"
+      bc_link : "https://labossadurina.bandcamp.com/album/la-bossa-durina"
+      deezer_link : "https://deezer.page.link/s8isQGquUrqq7myTA"
+      yt_link : "https://www.youtube.com/watch?v=XSgoc5MeLwI&list=OLAK5uy_kTjRXuqYVIXc4DjOqJ9_43Uaqu65grWRM"
+
+    - name : Mama i Papa (2015)
+      image : images/portfolio/mamaipapa.jpg
+      image_webp : images/portfolio/portfolio-2.webp
+      categories : ["Singles"]
+      content : Produït per La Bossa d'Urina i en Ramón Rodríguez
+      sp_link : "https://open.spotify.com/album/2UK5pAof2NR7td3IBanM8N?si=-mMHAGS6Rq-WxpCwjpghPg&dl_branch=1"
+      bc_link : "https://labossadurina.bandcamp.com/album/la-bossa-durina"
+      deezer_link : "https://www.deezer.com/en/album/71810842"
+      yt_link : "https://www.youtube.com/watch?v=dwxnW7VmKwY&list=OLAK5uy_mtlphoTRSoSVsII3wnvPcWex0SnLARAnk"

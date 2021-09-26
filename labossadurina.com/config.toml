@@ -7,7 +7,7 @@ paginate = "6"
 # post excerpt
 summaryLength = "15"
 disqusShortname = "" # get your shortname form here : https://disqus.com
-disableLanguages = ["fr"]
+disableLanguages = ["en"]
 defaultContentLanguage = "ca"
 
 ############################# Plugins ##########################
@@ -41,13 +41,13 @@ link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "sobre"
-url = "#about"
+name = "News"
+url = "#blog"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "services"
-url = "#services"
+name = "Bio"
+url = "#feature"
 weight = 2
 
 [[Languages.en.menu.main]]
@@ -78,81 +78,30 @@ weight = 7
 
 ################### Catalan Navigation ########################
 [[Languages.ca.menu.main]]
-name = "sobre"
-url = "#about"
+name = "Notícies"
+url = "#blog"
 weight = 1
 
 [[Languages.ca.menu.main]]
-name = "services"
-url = "#services"
+name = "Discografia"
+url = "#portfolio"
 weight = 2
 
 [[Languages.ca.menu.main]]
-name = "portfolio"
-url = "#portfolio"
+name = "World Tour"
+url = "#team"
 weight = 3
 
 [[Languages.ca.menu.main]]
-name = "team"
-url = "#team"
+name = "Bio"
+url = "#feature"
 weight = 4
 
 [[Languages.ca.menu.main]]
-name = "pricing"
-url = "#pricing"
+name = "Vídeos"
+url = "#counter"
 weight = 5
 
-[[Languages.ca.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
-
-#[[Languages.ca.menu.main]]
-#name = "contact"
-#url = "#contact"
-#weight = 7
-
-
-################### French Navigation ########################
-[[Languages.fr.menu.main]]
-name = "sur"
-url = "#about"
-weight = 1
-
-[[Languages.fr.menu.main]]
-name = "un service"
-url = "#services"
-weight = 2
-
-[[Languages.fr.menu.main]]
-name = "portefeuille"
-url = "#portfolio"
-weight = 3
-
-[[Languages.fr.menu.main]]
-name = "équipe"
-url = "#team"
-weight = 4
-
-[[Languages.fr.menu.main]]
-name = "tarification"
-url = "#pricing"
-weight = 5
-
-[[Languages.fr.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
-
-[[Languages.fr.menu.main]]
-name = "contact"
-url = "#contact"
-weight = 7
-
-[[Languages.fr.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
 
 ############################# Default Parameters ##########################
 [params]
@@ -212,7 +161,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 3
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; {{ now.Year }} Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 
 ################################ Catalan Language ########################
 [Languages.ca]
@@ -221,13 +170,4 @@ languageCode = "ca"
 contentDir = "content/catalan"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2011-{year} Designed by [Themefisher](https://themefisher.com) & [Uri Nieto](https://www.urinieto.com); Developed by [Gethugothemes](https://gethugothemes.com) & [Uri Nieto](https://www.urinieto.com)"

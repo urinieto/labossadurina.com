@@ -1,0 +1,44 @@
+############################### team ############################
+team:
+  enable : true
+  title : World Tour
+  upcoming_shows :
+  past_shows :
+    - content: California is not Spain World Tour 2019 – Live in Barcelona 27/12/2019
+    - content: California is not Spain World Tour 2019 – Live in Granollers 26/12/2019
+    - content: California is not Spain World Tour 2019 – Live in Oakland, California (not Spain) 18/10/2019
+    - content: Merda Gira World Tour 2018 – Live in Granollers 30/12/2018
+    - content: Merda Gira World Tour 2018 – Live in Terrassa 29/12/2018
+    - content: Merda Gira World Tour 2018 – Live in Barcelona 28/12/2018
+    - content: Merda Gira World Tour 2018 – Live in Granollers 27/12/2018
+    - content: Merda Gira World Tour 2018 – Live in Mataró 22/12/2018
+    - content: Open Mic World Tour 2017 – Live in San Francisco, California 27/7/2017
+    - content: Open Mic World Tour 2017 – Live in Berkeley, California 24/7/2017
+    - content: Open Mic World Tour 2017 – Live in Oakland, California 24/7/2017
+    - content: La Vida Secreta d’en Follet Tortuga World Tour 2016 – Live in Mataró 29/12/2016
+    - content: La Vida Secreta d’en Follet Tortuga World Tour 2016 – Live in Moià 25/12/2016
+    - content: La Vida Secreta d’en Follet Tortuga World Tour 2016 – Live in Figueres 23/12/2016
+    - content: La Vida Secreta d’en Follet Tortuga World Tour 2016 – Live in Barcelona 22/12/2016
+    - content: La Vida Secreta d’en Follet Tortuga World Tour 2016 – Live in Caldes 17/12/2016
+    - content: La Vida Secreta d’en Follet Tortuga World Tour 2016 – Live in Granollers 10/12/2016
+    - content: La Vida Secreta d’en Follet Tortuga World Tour 2016 – Live in Cardedeu 8/12/2016
+    - content: No Urine World Tour 2016 – Live in Barcelona 1/12/2016
+    - content: No Urine World Tour 2016 – Live in Barcelona 18/11/2016
+    - content: No Urine World Tour 2016 – Live in Granollers 1/9/2016
+    - content: No Urine World Tour 2016 – Live in Collsuspina 15/8/2016
+    - content: No Urine World Tour 2016 – Live in Figaró 8/8/2016
+    - content: No Urine World Tour 2016 – Live in Barcelona 1/8/2016
+    - content: Aznar World Tour 2016 – Live in Granollers 12/3/2016
+    - content: Aznar World Tour 2016 – Live in Moià 11/3/2016
+    - content: Aznar World Tour 2016 – Live in Barcelona 10/3/2016
+    - content: Oh América World Tour 2015 – Live in New York City, New York 28/3/2015
+    - content: Tot Ens Sembla Una Puta Merda World Tour 2015 – Live in Granollers 10/1/2015
+    - content: Tot Ens Sembla Una Puta Merda World Tour 2015 – Live in Terrassa 9/1/2015
+    - content: Thin Bag of Urine World Tour 2014 – Live in Granollers 17/5/2014
+    - content: Bag of Urine World Tour 2014 – Live in Sabadell 15/5/2014
+    - content: Mà en Tarrina World Tour 2013 – Live in Granollers 12/1/2013
+    - content: Mà en Tarrina World Tour 2013 – Live in Barcelona 11/1/2013
+    - content: Thin Bag of Urine World Tour 2012 – Live in Granollers 13/1/2012
+    - content: Thin Bag of Urine World Tour 2012 – Live in Barcelona 12/1/2012
+    - content: Catalan World Tour 2011 – Live in Granollers 19/3/2011
+    - content: Catalan World Tour 2011 – Live in Barcelona 17/3/2011

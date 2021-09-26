@@ -1,0 +1,27 @@
+################################# funfacts ##################################
+funfacts:
+  enable : true
+  title : Vídeos
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  counter_item:
+    - title : "Relaxa’t – Dirigit per NomasDF"
+      yt_url : "https://www.youtube.com/embed/3yOKtrr6PcY"
+
+    - title : "Sobrevalorat (feat. Jordan Rudess) – Dirigit per NomasDF"
+      yt_url : "https://www.youtube.com/embed/yBYZznjfQdc"
+
+    - title : "Esa de persona – Dirigit pels Venga Monjas"
+      yt_url : "https://www.youtube.com/embed/NDoJ5bw9D3A"
+
+    - title : "És Difícil – Dirigit per NomasDF"
+      yt_url : "https://www.youtube.com/embed/gm180xpMhec"
+
+    - title : "Es Tarde – Dirigit pels Venga Monjas"
+      yt_url : "https://www.youtube.com/embed/QhVI0FZV_Fg"
+
+    - title : "El Tiempo – Dirigit per Ulisses Bolsa"
+      yt_url : "https://www.youtube.com/embed/BhdBIRiLkhY"
+
+    - title : "Mama i Papa – Dirigit NomasDF"
+      yt_url : "https://www.youtube.com/embed/nM4J1pwtTh8"
