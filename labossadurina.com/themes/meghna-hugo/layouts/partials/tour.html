@@ -1,0 +1,38 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ if $data.tour.tour.enable }}
+{{ with $data.tour.tour }}
+{{"<!-- Start World Tour -->" | safeHTML}}
+<section id="tour" class="section tour">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-12">
+        {{"<!-- section title -->" | safeHTML}}
+        <div class="title text-center wow fadeInUp" data-wow-duration="500ms">
+          <h2>{{ with .title }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
+            {{ with .title }} {{ after (len (index (split . " ") 0)) . | safeHTML }} {{ end }}</span></h2>
+          <div class="border-meghna"></div>
+        </div>
+        <div class="worldtour-content">
+          <h3>Upcoming World Tour</h3>
+          {{ if isset .upcoming_shows .content }}
+            <li>{{ .content }}</li>
+          {{ else }}
+            <!--Aznar-->
+            <p><iframe width="560" height="315" src="https://www.youtube.com/embed/23wJb-KbvD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+          {{ end }}
+
+          <h3>Past World Tours</h3>
+          {{ range .past_shows }}
+            <li>{{ .content }}</li>
+          {{ end }}
+        </div>
+      </div>
+      {{"<!-- /section title -->" | safeHTML}}
+
+    </div>
+  </div>
+</section>
+{{"<!-- /tour -->" | safeHTML}}
+{{ end }}
+{{ end }}
