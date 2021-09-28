@@ -1,9 +1,9 @@
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.portfolio.portfolio.enable }}
-{{ with $data.portfolio.portfolio }}
-{{"<!-- Portfolio Section -->" | safeHTML}}
-<section class="portfolio section" id="portfolio">
+{{ if $data.discography.discography.enable }}
+{{ with $data.discography.discography }}
+{{"<!-- Discography Section -->" | safeHTML}}
+<section class="portfolio section" id="discography">
 	<div class="container">
 		<div class="row ">
 			<div class="col-xl-12">
@@ -24,7 +24,7 @@
 						<input type="radio" name="shuffle-filter" value="all" checked="checked" />{{ i18n "all"}}
 					</label>
 					{{ $categories := slice }}
-					{{ range .portfolio_item }}
+					{{ range .discography_item }}
 					{{ range .categories }}
 					{{ $categories = $categories | append . }}
 					{{ end }}
@@ -39,8 +39,8 @@
 		</div>
 
 		<div class="row shuffle-wrapper justify-content-center">
-			{{"<!-- portfolio item -->" | safeHTML}}
-			{{ range .portfolio_item }}
+			{{"<!-- discography item -->" | safeHTML}}
+			{{ range .discography_item }}
 			<div class="col-lg-4 col-md-6 shuffle-item"
 				data-groups="[{{range $index, $element:= .categories }}{{if ne $index 0}},{{end}}&quot;{{. | urlize}}&quot;{{ end }}]">
 				<div class="portfolio-block mb-4">
@@ -73,6 +73,6 @@
 		</div>
 	</div>
 </section>
-{{"<!-- /Portfolio -->" | safeHTML}}
+{{"<!-- /Discography -->" | safeHTML}}
 {{ end }}
 {{ end }}
