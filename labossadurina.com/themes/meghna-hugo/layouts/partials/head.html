@@ -2,6 +2,17 @@
 	<meta charset="utf-8">
 	<title>{{ .Title }}</title>
 
+	{{ "<!-- Open Graph meta -->" | safeHTML }}
+	<meta property="og:title" content="{{ .Title }}">
+	<meta property="og:type" content="website">
+	<meta property="og:description" content="Nihilistic and Transatlantic Music from Catalonia and California">
+	<meta property="og:site_name" content="La Bossa d'Urina">
+	<meta property="og:locale" content="ca">
+	<meta property="article:author" content="{{ `author/uri-nieto/` | absURL }}">
+	<meta property="article:section" content="Home">
+	<meta property="og:url" content="{{ .Site.BaseURL }}">
+	<meta property="og:image" content="{{ `images/backgrounds/hero-area.jpg` | absURL }}">
+
 	{{ "<!-- mobile responsive meta -->" | safeHTML }}
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
@@ -20,7 +31,7 @@
 
 	{{"<!-- Custom stylesheet - for your changes -->" |safeHTML}}
 	{{ $custom := resources.Get "css/custom.css" | minify }}
-  <link rel="stylesheet" href="{{ $custom.Permalink }}" media="screen">
+	<link rel="stylesheet" href="{{ $custom.Permalink }}" media="screen">
 
 	{{ "<!--Favicon-->" | safeHTML }}
 	<link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
