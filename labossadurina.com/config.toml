@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = ""
+baseURL = "https://cranky-poincare-4a726f.netlify.app/"
 title = "La Bossa d'Urina"
 theme = "meghna-hugo"
 # post pagination
