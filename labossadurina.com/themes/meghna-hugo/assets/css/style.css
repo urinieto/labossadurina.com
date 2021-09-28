@@ -562,8 +562,8 @@ a:hover {
 .social-icon-banner ul li a {
   border: 1px solid transparent;
   display: block;
-  height: 70px;
-  width: 70px;
+  height: 50px;
+  width: 40px;
   transition: all 300ms ease-out 0s;
 }
 
@@ -580,7 +580,7 @@ a:hover {
   color: #9b5dbe;
   display: inline-block;
   font-size: 32px;
-  line-height: 70px;
+  line-height: 50px;
   margin: 0;
   opacity: 0.8;
   transition: all 400ms ease-out 0s;
