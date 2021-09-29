@@ -3,15 +3,35 @@
 	<title>{{ .Title }}</title>
 
 	{{ "<!-- Open Graph meta -->" | safeHTML }}
-	<meta property="og:title" content="{{ .Title }}">
-	<meta property="og:type" content="website">
-	<meta property="og:description" content="Nihilistic and Transatlantic Music from Catalonia and California">
 	<meta property="og:site_name" content="La Bossa d'Urina">
-	<meta property="og:locale" content="ca">
-	<meta property="article:author" content="{{ .Site.BaseURL }}">
-	<meta property="article:section" content="Home">
+	<meta property="og:locale" content="{{ $.Site.LanguageCode }}">
 	<meta property="og:url" content="{{ .Site.BaseURL }}">
-	<meta property="og:image" content="{{ `images/backgrounds/hero-area.jpg` | absURL }}">
+	{{ if isset .Params "author" }}
+		<meta property="og:type" content="article">
+		<meta property="og:title" content="{{ $.Params.title }}">
+		<meta property="og:image" content="{{ $.Params.image| absURL }}">
+		<meta property="og:description" content="{{ .Summary }}">
+		<meta property="article:author" content="{{ `author/` | absURL }}{{ $.Params.author | urlize }}">
+		<meta property="article:publisher" content="{{ $.Site.BaseURL }}">
+	{{ else }}
+		<meta property="og:type" content="website">
+		<meta property="og:title" content="{{ .Title }}">
+		<meta property="og:image" content="{{ `images/backgrounds/hero-area.jpg` | absURL }}">
+		<meta property="og:description" content="Nihilistic and Transatlantic Music from Catalonia and California">
+	{{ end }}
+
+	{{ "<!-- Twitter Card Meta -->" | safeHTML }}
+	<meta name="twitter:card" content="summary"/>
+	<meta name="twitter:site" content="@labossadurina" />
+	{{ if isset .Params "author" }}
+		<meta name="twitter:title" content="{{ $.Params.title }}" />
+		<meta name="twitter:description" content="{{ .Summary }}" />
+		<meta name="twitter:image" content="{{ $.Params.image| absURL }}" />
+	{{ else }}
+		<meta name="twitter:title" content="{{ .Title }}" />
+		<meta name="twitter:description" content="Nihilistic and Transatlantic Music from Catalonia and California" />
+		<meta name="twitter:image" content="{{ `images/backgrounds/hero-area.jpg` | absURL }}" />
+	{{ end }}
 
 	{{ "<!-- mobile responsive meta -->" | safeHTML }}
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
