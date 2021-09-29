@@ -1,5 +1,5 @@
-############################# feature ###################################
-feature:
+############################# bio ###################################
+bio:
   enable : true
   image : images/about/about.png
   image_webp : images/about/about-business-man.webp

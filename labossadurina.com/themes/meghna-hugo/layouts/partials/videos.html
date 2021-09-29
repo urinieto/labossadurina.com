@@ -1,7 +1,7 @@
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.funfacts.funfacts.enable }}
-{{ with $data.funfacts.funfacts }}
+{{ if $data.videos.videos.enable }}
+{{ with $data.videos.videos }}
 {{"<!-- Start Videos Section -->" | safeHTML}}
 <section id="videos" class="parallax-section bg-1 section overly" style='background-image: url("{{ .bg_image_webp | absURL }}")'>
 	<!-- this image is for trigger this section fallback background image -->

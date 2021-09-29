@@ -1,5 +1,5 @@
-################################# funfacts ##################################
-funfacts:
+################################# videos ##################################
+videos:
   enable : true
   title : Vídeos
   bg_image : "images/backgrounds/bg-white-wall.jpg"
