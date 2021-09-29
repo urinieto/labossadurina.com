@@ -2,8 +2,8 @@
 
 {{ if $data.feature.feature.enable }}
 {{ with $data.feature.feature }}
-{{"<!-- feature -->" | safeHTML}}
-<section class="section section-bg about-2 padding-0" id="feature">
+{{"<!-- bio -->" | safeHTML}}
+<section class="section section-bg about-2 padding-0" id="bio">
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-lg-6 padding-0" style="background-image: url('{{ .image | absURL }}'); background-size: cover; background-position: bottom center; background-repeat: no-repeat; min-height: 400px;">
@@ -36,6 +36,6 @@
 		</div>
 	</div>
 </section>
-{{"<!-- /feature -->" | safeHTML}}
+{{"<!-- /bio -->" | safeHTML}}
 {{ end }}
 {{ end }}

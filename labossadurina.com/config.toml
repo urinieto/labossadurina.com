@@ -41,39 +41,30 @@ link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "News"
+name = "Notícies"
 url = "#blog"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "Bio"
-url = "#feature"
+name = "Discografia"
+url = "#discography"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "discography"
-url = "#discography"
+name = "World Tour"
+url = "#tour"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "team"
-url = "#team"
+name = "Bio"
+url = "#bio"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
+name = "Vídeos"
+url = "#videos"
 weight = 5
 
-[[Languages.en.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
-
-[[Languages.en.menu.main]]
-name = "contact"
-url = "#contact"
-weight = 7
 
 
 ################### Catalan Navigation ########################
@@ -94,12 +85,12 @@ weight = 3
 
 [[Languages.ca.menu.main]]
 name = "Bio"
-url = "#feature"
+url = "#bio"
 weight = 4
 
 [[Languages.ca.menu.main]]
 name = "Vídeos"
-url = "#counter"
+url = "#videos"
 weight = 5
 
 
