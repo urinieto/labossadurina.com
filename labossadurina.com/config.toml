@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://labossadurina.netlify.app/"
+baseURL = "https://www.labossadurina.com/"
 title = "La Bossa d'Urina"
 theme = "meghna-hugo"
 # post pagination
