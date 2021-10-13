@@ -18,4 +18,4 @@ E.g.,
 
 ## To Run the Hugo Server Locally
 
-    hugo server --disableFastRender -D
+    hugo server -D
