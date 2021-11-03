@@ -1,6 +1,6 @@
 ---
-title: "Nou Web"
-date: 2021-10-11
+title: "Esa Clase de World Tour 2021"
+date: 2021-11-02
 draft: false
 image: images/blog/esaclasedeworldtour.jpg
 author: Uri Nieto
