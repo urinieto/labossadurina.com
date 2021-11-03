@@ -16,7 +16,9 @@
         <div class="worldtour-content">
           <h3>Upcoming World Tour</h3>
           {{ if isset .upcoming_shows .content }}
-            <li>{{ .content }}</li>
+		  {{ range .upcoming_shows }}
+		    <li>{{ .content }}</li>
+		  {{ end }}
           {{ else }}
             <!--Aznar-->
             <p><iframe width="560" height="315" src="https://www.youtube.com/embed/23wJb-KbvD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
