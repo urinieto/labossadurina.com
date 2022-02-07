@@ -3,9 +3,11 @@ tour:
   enable : true
   title : World Tour
   upcoming_shows :
-    - content: Esa Clase de World Tour 2021 – Live in Granollers 18/12/2021
-    - content: Esa Clase de World Tour 2021 – Live in Barcelona 19/12/2021
+    - content: Endèmia World Tour 2022 – Live in Granollers 9/7/2022
   past_shows :
+    - content: Esa Clase de World Tour 2021/22 – Live in Oakland, CA 8/1/2022
+    - content: Esa Clase de World Tour 2021/22 – Live in Barcelona 19/12/2021 (CANCEL·LAT PER COVIDS)
+    - content: Esa Clase de World Tour 2021/22 – Live in Granollers 18/12/2021
     - content: California is not Spain World Tour 2019 – Live in Barcelona 27/12/2019
     - content: California is not Spain World Tour 2019 – Live in Granollers 26/12/2019
     - content: California is not Spain World Tour 2019 – Live in Oakland, California (not Spain) 18/10/2019
