@@ -3,7 +3,9 @@ tour:
   enable : true
   title : World Tour
   upcoming_shows :
-    - content: Endèmia World Tour 2022 – Live in Granollers 9/7/2022
+    - content: Anem Tirant World Tour 2022 – Live in Oakland, CA 22/5/2022
+    - content: Anem Tirant World Tour 2022 – Live in Granollers 9/7/2022
+    - content: Anem Tirant World Tour 2022 – Live in Cardedeu 10/7/2022
   past_shows :
     - content: Esa Clase de World Tour 2021/22 – Live in Oakland, CA 8/1/2022
     - content: Esa Clase de World Tour 2021/22 – Live in Barcelona 19/12/2021 (CANCEL·LAT PER COVIDS)
