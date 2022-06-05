@@ -9,11 +9,11 @@ It's hosted at [Netlify](https://www.netlify.com/).
 
 Go to the root of the hugo page (labossadurina.com/) and type:
 
-    hugo new posts/<date>-<name>.md
+    hugo new blog/<date>-<name>.md
 
 E.g.,
 
-    hugo new posts/2020-09-25-recsys2020.md
+    hugo new blog/20220925-recsys2020.md
 
 
 ## To Run the Hugo Server Locally

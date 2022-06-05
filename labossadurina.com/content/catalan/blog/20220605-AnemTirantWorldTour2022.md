@@ -1,6 +1,6 @@
 ---
 title: "Anem Tirant World Tour 2022"
-date: 2022-06-05T16:00:32-08:00
+date: 2022-06-05
 draft: false
 image: images/blog/anemtirant2022.png
 author: Uri Nieto
