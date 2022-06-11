@@ -14,7 +14,7 @@ Aquest cop trepitjarem els escenaris d'arreu del món, concentrant-nos en la par
 Aquí més detalls:
 
 - Tàrrega - Kirikú - 7 de Juliol - Hora per confirmar (vespre/nit)
-- Granollers - La Lluïda - 9 de Juliol - Hora per confirmar (vespre/nit)
+- Granollers - La Lluïda - 9 de Juliol - 21:30h
 - Cardedeu - Tarambana - 10 de Juliol - 18:15h
 - Badalona - Lagaia - 15 de Juliol - 20:30h
 
