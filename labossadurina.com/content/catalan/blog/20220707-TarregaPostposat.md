@@ -15,7 +15,7 @@ Odiem els virus.
 
 Teníem moltes ganes de tocar a Tàrrega al local dels titans del [Bar Kirikú](https://www.instagram.com/kirikutarrega/), i esperem anar-hi al Desembre.
 
-El concert de Dissabte a Granollers **segueix en peu**. Us mantindrem informats si hi acaben havent canvis d'última hora. Esperem que no, joder.
+Els concerts de Dissabte a Granollers i Diumenge a Cardedeu **segueixen en peu**. Us mantindrem informats si hi acaben havent canvis d'última hora. Esperem que no, joder.
 
 Us estimem, guapis.
 
