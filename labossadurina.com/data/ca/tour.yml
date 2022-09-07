@@ -3,10 +3,11 @@ tour:
   enable : true
   title : World Tour
   upcoming_shows :
-    - content: Anem Tirant World Tour 2022 – Live in Black Rock City, Nevada 30/8/2022
+    - content: Anem Tirant World Tour 2022 – Live in Berkeley, Califòrnia 10/9/2022
     - content: La Primera Gira World Tour 2022 – Live in Tàrrega 16/12/2022
     - content: La Primera Gira World Tour 2022 – Live in Barcelona 22/12/2022
   past_shows :
+    - content: Anem Tirant World Tour 2022 – Live in Black Rock City, Nevada 30/8/2022
     - content: Anem Tirant World Tour 2022 – Live in Cardedeu 17/7/2022
     - content: Anem Tirant World Tour 2022 – Live in Badalona 15/7/2022 (CANCEL·LAT PER LOGÍSTIQUES COVIDS)
     - content: Anem Tirant World Tour 2022 – Live in Granollers 9/7/2022
