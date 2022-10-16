@@ -11,3 +11,5 @@ Aquí tenim a la Urina tocant de manera forta al Burning Man el mes passat.
 Va ser bastant màgic.
 Agraïr fort a la organització i a Campo Santo per tot el suport.
 Ens veiem allà tots plegats l'any que ve, presentant El Primer Disc de manera fortíssima.
+
+Gràcies, Shavika, per la foto! <3
