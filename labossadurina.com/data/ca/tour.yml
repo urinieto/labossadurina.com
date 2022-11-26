@@ -3,7 +3,8 @@ tour:
   enable : true
   title : World Tour
   upcoming_shows :
-    - content: La Primera Gira World Tour 2022 – Live in Granollers 16/12/2022
+    - content: La Primera Gira World Tour 2022 – Live in Palou 16/12/2022
+    - content: La Primera Gira World Tour 2022 – Live in Granollers 17/12/2022
     - content: La Primera Gira World Tour 2022 – Live in Barcelona 22/12/2022
   past_shows :
     - content: Anem Tirant World Tour 2022 – Live in Berkeley, Califòrnia 10/9/2022
