@@ -3,6 +3,16 @@ discography:
   enable : true
   title : Discografia
   discography_item :
+    - name : Les Criptomonedes (2022)
+      image : images/portfolio/criptomonedes.png
+      image_webp : images/portfolio/criptomonedes.webp
+      categories : ["Singles"]
+      content : Produït per en Víctor Valiente.
+      sp_link : "https://open.spotify.com/track/5NxOmTjxWPrrEZzlBAWLrH?si=576c6e1f43034e49"
+      deezer_link : "https://www.deezer.com/en/album/71810842"
+      bc_link : "https://labossadurina.bandcamp.com/album/merda-fina"
+      yt_link : "https://www.youtube.com/watch?v=tO3g9otj8yw"
+
     - name : Merda Fina (2018)
       image : images/portfolio/merdafina.jpg
       image_webp : images/portfolio/portfolio-1.webp

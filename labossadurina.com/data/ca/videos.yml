@@ -5,6 +5,9 @@ videos:
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
   counter_item:
+    - title : "Les Criptomonedes – Dirigit per NomasDF"
+      yt_url : "https://www.youtube.com/embed/tO3g9otj8yw"
+
     - title : "Relaxa’t – Dirigit per NomasDF"
       yt_url : "https://www.youtube.com/embed/3yOKtrr6PcY"
 
