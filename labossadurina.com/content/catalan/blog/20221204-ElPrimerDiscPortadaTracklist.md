@@ -15,7 +15,7 @@ Com a primícia, aquí teniu el Tracklist d'El Primer Disc:
 2. El Punt Exacte
 3. La Solució
 4. La Finestra
-5. El 0,0003 %
+5. El 0,0003%
 6. L'Ortodòncia
 7. La Felicitat
 8. La Manera
@@ -24,6 +24,6 @@ Com a primícia, aquí teniu el Tracklist d'El Primer Disc:
 11. El Principi
 12. La Baraja (Bonus Track)
 
-Recordeu: El Primer Disc sortirà el proper **9 de Desembre** a totes les _music streaming platforms_ (es pronuncia amb accent de Kentucky).
+Recordeu: El Primer Disc sortirà el proper **9 de Desembre** a totes les _music streaming platforms_ (es pronuncia amb accent d'Alabama).
 
 Can't wait, titans!
