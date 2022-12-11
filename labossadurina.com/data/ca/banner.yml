@@ -4,7 +4,8 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : ""
-  title : "LA BOSSA D'URINA"
+  logo_image : "images/labossadurina.png"
+  title : ""
   content : "Música Transoceànica, Eròtica i Depressiva"
   button:
     enable : true
