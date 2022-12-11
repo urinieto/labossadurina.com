@@ -16,6 +16,7 @@
 		<h1>{{ .title | markdownify }}</h1>
 		<div><img src="{{ .logo_image | absURL }}" width="400"/></div>
 		<p>{{ .content | markdownify }}</p>
+		<p>{{ "🌈" | markdownify }}</p>
 		{{ if .button.enable }}
 			{{ with .button }}
 				<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>

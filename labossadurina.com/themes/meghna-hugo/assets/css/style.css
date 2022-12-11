@@ -100,7 +100,7 @@ a:hover {
 .btn {
   background-color: transparent;
   color: #fff;
-  padding: 10px 30px;
+  padding: 10px 10px;
   border-radius: 0;
   transition: all .3s ease-in 0s;
 }
@@ -457,6 +457,7 @@ a:hover {
 .hero-area .block {
   text-align: center;
   z-index: 99;
+  width: 700px;
 }
 
 .hero-area .block .video-button {
@@ -496,7 +497,7 @@ a:hover {
 }
 
 .hero-area .block .btn-transparent {
-  margin-top: 40px;
+  margin-top: 10px;
   border-color: #fff;
   padding: 14px 50px;
   font-size: 18px;
