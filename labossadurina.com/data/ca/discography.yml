@@ -3,14 +3,24 @@ discography:
   enable : true
   title : Discografia
   discography_item :
+    - name : El Primer Disc (2022)
+      image : images/portfolio/elprimerdisc.jpg
+      image_webp : images/portfolio/elprimerdisc.webp
+      categories : ["Àlbums"]
+      content : Produït per en Víctor Valiente.
+      sp_link : "https://open.spotify.com/album/6JeQSOrGoCx8PcrkdsgsAk?si=f-fazCwsT8up_QIhNSbH-Q"
+      deezer_link : "https://deezer.page.link/1VwJbtrdAogNS1VK8"
+      bc_link : "https://labossadurina.bandcamp.com/album/el-primer-disc"
+      yt_link : "https://www.youtube.com/watch?v=KQdPTxYjJYA&list=OLAK5uy_nhLqs_n4iKTI5VxZ2JFF-9nPXq23ATtD8"
+
     - name : Les Criptomonedes (2022)
       image : images/portfolio/criptomonedes.png
       image_webp : images/portfolio/criptomonedes.webp
       categories : ["Singles"]
       content : Produït per en Víctor Valiente.
       sp_link : "https://open.spotify.com/track/5NxOmTjxWPrrEZzlBAWLrH?si=576c6e1f43034e49"
-      deezer_link : "https://www.deezer.com/en/album/71810842"
-      bc_link : "https://labossadurina.bandcamp.com/album/merda-fina"
+      deezer_link : "https://deezer.page.link/1VwJbtrdAogNS1VK8"
+      bc_link : "https://labossadurina.bandcamp.com/album/el-primer-disc"
       yt_link : "https://www.youtube.com/watch?v=tO3g9otj8yw"
 
     - name : Merda Fina (2018)
