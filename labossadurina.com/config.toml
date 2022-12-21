@@ -137,6 +137,10 @@ icon = "fab fa-instagram" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.instagram.com/labossadurina/"
 
 [[params.social]]
+icon = "fab fa-mastodon" # themify icon pack : https://themify.me/themify-icons
+link = "https://universeodon.com/@labossadurina"
+
+[[params.social]]
 icon = "fab fa-twitter" # themify icon pack : https://themify.me/themify-icons
 link = "https://twitter.com/LaBossadUrina"
 
