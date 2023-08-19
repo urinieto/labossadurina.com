@@ -3,6 +3,9 @@ tour:
   enable : true
   title : World Tour
   upcoming_shows :
+    - content: Crypto In The Desert World Tour 2023 – Live in Black Rock City (Center Camp), Nevada 29/8/2023
+    - content: Crypto In The Desert World Tour 2023 – Live in Black Rock City (Center Camp), Nevada 30/8/2023
+    - content: Crypto In The Desert World Tour 2023 – Live in Black Rock City (Camposanto), Nevada 1/9/2023
   past_shows :
     - content: La Primera Gira World Tour 2022 – Live in Barcelona 22/12/2022
     - content: La Primera Gira World Tour 2022 – Live in Granollers 17/12/2022
