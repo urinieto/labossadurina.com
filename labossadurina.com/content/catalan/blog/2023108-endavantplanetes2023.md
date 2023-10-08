@@ -7,7 +7,7 @@ draft: false
 description: "La gira mundial Endavant Planetes World Tour 2023 ja és aquí!"
 ---
 
-Foc, Aigua, Aire, Terra, Cor i LA BOSSA D'URINA. La gira mundial Endavant Planetes Worls Tour 2023 ja és aquí!
+Foc, Aigua, Aire, Terra, Cor i LA BOSSA D'URINA. La gira mundial Endavant Planetes World Tour 2023 ja és aquí!
 
 Serà un espectacle dels sentits, una odissea que abarcarà els 4500 milions d'anys que fa que es va formar el nostre PLANETA. Gràcies a Jesuscrist. No us ho perdeu!
 
