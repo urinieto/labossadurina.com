@@ -5,6 +5,9 @@ videos:
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
   counter_item:
+    - title : "La Finestra - Dirigit per Film Ferro"
+      yt_url : "https://www.youtube.com/embed/hVIa4vjwtpY"
+
     - title : "La Manera - Dirigit per en Ramón Tarruella, Anna Tarruella i Daniel Bolsa"
       yt_url : "https://www.youtube.com/embed/hVIa4vjwtpY"
 
