@@ -1,6 +1,6 @@
 ---
 title: "Videoclip de La Finestra"
-date: 2023-01-14
+date: 2023-11-11
 draft: false
 image: images/blog/lafinestravideo.png
 author: Uri Nieto
