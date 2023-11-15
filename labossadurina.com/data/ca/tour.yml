@@ -3,11 +3,11 @@ tour:
   enable : true
   title : World Tour
   upcoming_shows :
-    - content: Endavant Planetes World Tour 2023 - Live in Mendocino, CA, USA 21/10/2023
-    - content: Endavant Planetes World Tour 2023 - Live in San Francisco, CA, USA 27/10/2023
-    - content: Endavant Planetes World Tour 2023 - Live in Barcelona 12/11/2023
     - content: Endavant Planetes World Tour 2023 - Live in Granollers 25/11/2023
   past_shows :
+    - content: Endavant Planetes World Tour 2023 - Live in Barcelona 12/11/2023
+    - content: Endavant Planetes World Tour 2023 - Live in San Francisco, CA, USA 27/10/2023
+    - content: Endavant Planetes World Tour 2023 - Live in Mendocino, CA, USA 21/10/2023
     - content: Crypto In The Desert World Tour 2023 – Live in Black Rock City (Camposanto), Nevada 1/9/2023
     - content: Crypto In The Desert World Tour 2023 – Live in Black Rock City (Center Camp), Nevada 30/8/2023
     - content: Crypto In The Desert World Tour 2023 – Live in Black Rock City (Center Camp), Nevada 29/8/2023
