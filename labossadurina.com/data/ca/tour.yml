@@ -3,6 +3,7 @@ tour:
   enable : true
   title : World Tour
   upcoming_shows :
+    - content: La Bossa Gira World Tour 2024 - Live in Málaga 26/3/2024
   past_shows :
     - content: Endavant Planetes World Tour 2023 - Live in Granollers 25/11/2023
     - content: Endavant Planetes World Tour 2023 - Live in Barcelona 12/11/2023
