@@ -3,6 +3,7 @@ tour:
   enable : true
   title : World Tour
   upcoming_shows :
+    - content: Les Taules de Nou World Tour 2024 - Live in Canovelles 24/8/2024
   past_shows :
     - content: La Urina Gira World Tour 2024 - Live in Okland, CA, USA 21/4/2024
     - content: La Bossa Gira World Tour 2024 - Live in Málaga 26/3/2024
