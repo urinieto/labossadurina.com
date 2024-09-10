@@ -16,18 +16,22 @@
         <div class="worldtour-content">
           <h3>Upcoming World Tour</h3>
           {{ if isset .upcoming_shows .content }}
+                  <ul class="no-bullets">
 		  {{ range .upcoming_shows }}
 		    <li>{{ .content }}</li>
 		  {{ end }}
+                  </ul>
           {{ else }}
             <!--Aznar-->
             <p><iframe width="560" height="315" src="https://www.youtube.com/embed/23wJb-KbvD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
           {{ end }}
 
           <h3>Past World Tours</h3>
+          <ul class="no-bullets">
           {{ range .past_shows }}
             <li>{{ .content }}</li>
           {{ end }}
+          </ul>
         </div>
       </div>
       {{"<!-- /section title -->" | safeHTML}}
