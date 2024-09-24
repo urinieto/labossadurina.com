@@ -3,6 +3,7 @@ tour:
   enable : true
   title : World Tour
   upcoming_shows :
+    - content: Bobobops vs Minimals World Tour 2024 - Live in Palouet 21/12/2024
     - content: Bobobops vs Minimals World Tour 2024 - Live in l'Ametlla del Vallès 27/12/2024
     - content: Bobobops vs Minimals World Tour 2024 - Live in Caldes de Montbui 28/12/2024
     - content: Bobobops vs Minimals World Tour 2024 - Live in Granollers 28/12/2024
