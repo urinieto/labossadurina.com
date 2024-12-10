@@ -16,7 +16,7 @@ Aquí la llista sencera:
 - 27/12/2024 - 19h - [Can Melitre](https://maps.app.goo.gl/jSR3kQ4R27S8qdga7) - L'Ametlla del Vallès
 - 28/12/2024 - 13h - [La Canya de Caldes](https://maps.app.goo.gl/XxyX6UEP9qzQEAc79) - Caldes de MontBui
 - 28/12/2024 - 22h - [Bucs d'Assaig Roca Umbert](https://maps.app.goo.gl/6ssxpAs3Z863pTZdA) - Granollers
-- 29/12/2024 - 19h - [Rouge Cocktail Club](https://maps.app.goo.gl/M2PMvMjRL8nAxhnS7) - Barcelona
+- 29/12/2024 - 20h - [Rouge Cocktail Club](https://maps.app.goo.gl/M2PMvMjRL8nAxhnS7) - Barcelona - [ENTRADES A 8€](https://link.dice.fm/Z81973fbf3e2)
 
 Qui guanyarà? Els Bobobops o els Minimals? Bajo o contrabajo? Donald o Elon?
 
