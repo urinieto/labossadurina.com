@@ -3,6 +3,16 @@ discography:
   enable : true
   title : Discografia
   discography_item :
+    - name : L'Últim Disc de La Bossa d'Urina - Part 2 (2026)
+      image : images/portfolio/ultimdisc-portada.png
+      image_webp : images/portfolio/ultimdisc-portada.webp
+      categories : ["Àlbums"]
+      content : Produït per en Víctor Valiente.
+      sp_link : "https://www.labossadurina.com/blog/20251231-portadaultimdisc/"
+      deezer_link : "https://www.labossadurina.com/blog/20251231-portadaultimdisc/"
+      bc_link : "https://www.labossadurina.com/blog/20251231-portadaultimdisc/"
+      yt_link : "https://www.labossadurina.com/blog/20251231-portadaultimdisc/"
+
     - name : El Primer Disc (2022)
       image : images/portfolio/elprimerdisc.jpg
       image_webp : images/portfolio/elprimerdisc.webp
