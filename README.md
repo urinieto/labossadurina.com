@@ -13,7 +13,7 @@ Go to the root of the hugo page (labossadurina.com/) and type:
 
 E.g.,
 
-    hugo new blog/20220925-recsys2020.md
+    hugo new blog/20240906-lasolucio.md
 
 
 ## To Run the Hugo Server Locally
