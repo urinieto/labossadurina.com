@@ -5,6 +5,12 @@ videos:
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
   counter_item:
+    - title : "Terrorisme - Dirigit per NomasDF"
+      yt_url : "https://www.youtube.com/embed/rfFDtmW44bs"
+
+    - title : "La Solució - Dirigit per NomasDF"
+      yt_url : "https://www.youtube.com/embed/z7yHo9OovlA"
+
     - title : "La Finestra - Dirigit per Film Ferro"
       yt_url : "https://www.youtube.com/embed/l268YOkVkpw"
 
