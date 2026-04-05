@@ -5,6 +5,12 @@ videos:
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
   counter_item:
+    - title : "L'Any que ve - Dirigit per FERRO FILMS"
+      yt_url : "https://www.youtube.com/embed/0xhXej65NY8"
+
+    - title : "La Foto - Dirigit per NomasDF"
+      yt_url : "https://www.youtube.com/embed/KwIVL3hkVnQ"
+
     - title : "Terrorisme - Dirigit per NomasDF"
       yt_url : "https://www.youtube.com/embed/rfFDtmW44bs"
 
