@@ -3,6 +3,7 @@ tour:
   enable : true
   title : World Tour
   upcoming_shows :
+    - content: La Última Gira Mundial World Tour 2026 - Live in Barcelona 8/5/2026
   past_shows :
     - content: Bobobops vs Minimals World Tour 2024 - Live in Barcelona 29/12/2024
     - content: Bobobops vs Minimals World Tour 2024 - Live in Granollers 28/12/2024
