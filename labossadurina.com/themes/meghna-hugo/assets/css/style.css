@@ -1294,13 +1294,12 @@ a:hover {
 }
 
 .post-block img {
-  width: 350px;
-  height: 350px;
+  width: 100%;
+  aspect-ratio: 1 / 1;
   background-repeat: no-repeat;
-  /* background-size: 350px 300px; */
   background-size: cover;
+  background-position: center;
   display: block;
-  margin: 0 auto;
 }
 
 .post-block .content h3 {
