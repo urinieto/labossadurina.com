@@ -457,7 +457,14 @@ a:hover {
 .hero-area .block {
   text-align: center;
   z-index: 99;
-  width: 700px;
+  width: 90%;
+  max-width: 1400px;
+}
+
+.banner-logo {
+  width: 80%;
+  min-width: 300px;
+  max-width: 1300px;
 }
 
 .hero-area .block .video-button {
