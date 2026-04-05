@@ -463,7 +463,7 @@ a:hover {
 
 .banner-logo {
   width: 80%;
-  min-width: 300px;
+  min-width: 400px;
   max-width: 1300px;
 }
 
@@ -1299,6 +1299,8 @@ a:hover {
   background-repeat: no-repeat;
   /* background-size: 350px 300px; */
   background-size: cover;
+  display: block;
+  margin: 0 auto;
 }
 
 .post-block .content h3 {
