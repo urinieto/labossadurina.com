@@ -5,6 +5,9 @@ videos:
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
   counter_item:
+    - title : "La Samarreta - Dirigit per NomasDF"
+      yt_url : "https://www.youtube.com/embed/Gn390axkzcY"
+
     - title : "L'Any que ve - Dirigit per FERRO FILMS"
       yt_url : "https://www.youtube.com/embed/0xhXej65NY8"
 
