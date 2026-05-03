@@ -7,7 +7,11 @@ discography:
       image : images/portfolio/ultimdisc-portada.png
       image_webp : images/portfolio/ultimdisc-portada.webp
       categories : ["EPs"]
-      content : Produït per en Víctor Valiente. (Sortirà a mitjans de Gener.)
+      content : Produït per en Víctor Valiente.
+      sp_link : "https://open.spotify.com/album/0FyrS9J820Rf4SGRpTDrDi?si=3bveY8PnTL6DFsMX6kQiyA"
+      deezer_link : "https://www.deezer.com/us/album/961145431"
+      bc_link : "https://labossadurina.bandcamp.com/album/l-ltim-disc-de-la-bossa-durina-part-2"
+      yt_link : "https://www.youtube.com/watch?v=xGV8gKhD6RY&list=OLAK5uy_nMXObvXjdK-AZBTxJd2qndh7V43TIbMUE&index=2"
 
     - name : El Primer Disc (2022)
       image : images/portfolio/elprimerdisc.jpg
