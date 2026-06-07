@@ -17,3 +17,5 @@ Aquesta celebració onanista de la fi de la humanitat i el començament de la di
 
 Gràcies per aquests 15 o 16 anys. Us estimem.
 
+Entrades [AQUÍ](https://site.fourvenues.com/es/radikalgranollers/events/la-bossa-durina-20-06-2026-VKTS).
+
